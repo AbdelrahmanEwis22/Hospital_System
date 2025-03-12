@@ -21,4 +21,4 @@ This project is a **comprehensive hospital management system** built in C++ and 
 
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/AbdelrahmanEwis22/Hospital-Management-System.git
+git clone https://github.com/AbdelrahmanEwis22/Hospital_System.git
