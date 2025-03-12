@@ -1,1 +1,12 @@
+C:\Hospital_system\Hospital\Appointment.cpp;C:\Hospital_system\Hospital\x64\Debug\Appointment.obj
+C:\Hospital_system\Hospital\AppointmentManager.cpp;C:\Hospital_system\Hospital\x64\Debug\AppointmentManager.obj
+C:\Hospital_system\Hospital\Doctor.cpp;C:\Hospital_system\Hospital\x64\Debug\Doctor.obj
+C:\Hospital_system\Hospital\DoctorManager.cpp;C:\Hospital_system\Hospital\x64\Debug\DoctorManager.obj
 C:\Hospital_system\Hospital\Hospital.cpp;C:\Hospital_system\Hospital\x64\Debug\Hospital.obj
+C:\Hospital_system\Hospital\MedicalRecord.cpp;C:\Hospital_system\Hospital\x64\Debug\MedicalRecord.obj
+C:\Hospital_system\Hospital\MedicalRecordManager.cpp;C:\Hospital_system\Hospital\x64\Debug\MedicalRecordManager.obj
+C:\Hospital_system\Hospital\Parser.cpp;C:\Hospital_system\Hospital\x64\Debug\Parser.obj
+C:\Hospital_system\Hospital\Patient.cpp;C:\Hospital_system\Hospital\x64\Debug\Patient.obj
+C:\Hospital_system\Hospital\PatientManager.cpp;C:\Hospital_system\Hospital\x64\Debug\PatientManager.obj
+C:\Hospital_system\Hospital\Person.cpp;C:\Hospital_system\Hospital\x64\Debug\Person.obj
+C:\Hospital_system\Hospital\searchAll.cpp;C:\Hospital_system\Hospital\x64\Debug\searchAll.obj

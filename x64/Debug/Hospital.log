@@ -1,2 +1,14 @@
-﻿  Hospital.cpp
+﻿  Appointment.cpp
+  AppointmentManager.cpp
+  Doctor.cpp
+  DoctorManager.cpp
+  Hospital.cpp
+  MedicalRecord.cpp
+  MedicalRecordManager.cpp
+  Parser.cpp
+  Patient.cpp
+  PatientManager.cpp
+  Person.cpp
+  searchAll.cpp
+  Generating Code...
   Hospital.vcxproj -> C:\Hospital_system\Hospital\x64\Debug\Hospital.exe

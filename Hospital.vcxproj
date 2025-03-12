@@ -127,7 +127,31 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Appointment.cpp" />
+    <ClCompile Include="AppointmentManager.cpp" />
+    <ClCompile Include="Doctor.cpp" />
+    <ClCompile Include="DoctorManager.cpp" />
     <ClCompile Include="Hospital.cpp" />
+    <ClCompile Include="MedicalRecord.cpp" />
+    <ClCompile Include="MedicalRecordManager.cpp" />
+    <ClCompile Include="Parser.cpp" />
+    <ClCompile Include="Patient.cpp" />
+    <ClCompile Include="PatientManager.cpp" />
+    <ClCompile Include="Person.cpp" />
+    <ClCompile Include="searchAll.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Appointment.h" />
+    <ClInclude Include="AppointmentManager.h" />
+    <ClInclude Include="Doctor.h" />
+    <ClInclude Include="DoctorManager.h" />
+    <ClInclude Include="MedicalRecord.h" />
+    <ClInclude Include="MedicalRecordManager.h" />
+    <ClInclude Include="Parser.h" />
+    <ClInclude Include="Patient.h" />
+    <ClInclude Include="PatientManager.h" />
+    <ClInclude Include="Person.h" />
+    <ClInclude Include="searchAll.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
